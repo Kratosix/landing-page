@@ -28,3 +28,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 
 <b>Note: This is not the perfect code I'd ever provide</b>
+
+
+<h3>Dependencies</h3>
+You can install the dependencies using <code>npm install</code>
