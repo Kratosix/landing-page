@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color:black
+}
+
+.colored{
+    background-image: -webkit-linear-gradient(45deg, red, blue);
+    background-clip: text;
+    color: transparent;
+    -webkit-background-clip: text;
+}
+
